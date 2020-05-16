@@ -35,11 +35,7 @@ class TestImmutableList(unittest.TestCase):
         self.assertEqual(tail(cons('a', None)), None)
         self.assertEqual(to_list(tail(cons('a', cons('b',None)))), to_list(cons('b', None)))
 
-    def test_to_list(self):
 
-        self.assertEqual(to_list(None), [])
-        self.assertEqual(to_list(cons('a', None)), ['a'])
-        self.assertEqual(to_list(cons('a', cons('b', None))), ['b', 'a'])
 
     def test_from_list(self):
 
