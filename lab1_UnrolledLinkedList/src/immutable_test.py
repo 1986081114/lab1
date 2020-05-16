@@ -1,10 +1,10 @@
 import unittest
 
-from hypothesis import given, settings
+from hypothesis import given
 
 import hypothesis.strategies as st
 
-from immutable import *
+from lab1_UnrolledLinkedList.src.immutable import *
 
 
 class TestImmutableList(unittest.TestCase):
