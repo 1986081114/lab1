@@ -1,7 +1,7 @@
 #                          Different approaches for algorithms and data structure implementation
 
-
-#####      Group Members: Zhao Ji ,   Duan Shoujian   (ZD)
+ ####        ZD
+#####      Group Members: Zhao Ji ,   Duan Shoujian   
 
 #####       laboratory work number:  1
 
